@@ -71,8 +71,8 @@ let myYoutubename = "hiteshchoudharydotcom"
 let anothername = myYoutubename
 anothername = "chaiaurcode"
 
-// console.log(myYoutubename);
-// console.log(anothername);
+console.log(myYoutubename);
+console.log(anothername);
 
 
 let userOne = {
