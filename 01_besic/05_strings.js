@@ -1,20 +1,20 @@
-const name = "Musa"
+const name = "Musa "
 const repocount = 729
 
-// console.log(name +  repocount + " value");
-// console.log(`Hello my name is ${name} and repocount is ${repocount}`);
+console.log(name +  repocount + " value");
+console.log(`Hello my name is ${name} and repocount is ${repocount}`);
 
 
 const gameName = new String('hitesh-hc-com');
 
-// console.log(gameName[0]);
-// console.log(gameName.__proto__);
+console.log(gameName[0]);
+console.log(gameName.__proto__);
 
 
-// console.log(gameName.length);
-// console.log(gameName.toUpperCase());
-// console.log(gameName.charAt(2));
-// console.log(gameName.indexOf('t'));
+console.log(gameName.length);
+console.log(gameName.toUpperCase());
+console.log(gameName.charAt(2));
+console.log(gameName.indexOf('t'));
 
 // const newString = gameName.substring(0, 4) // no negative value
 // console.log(newString);
@@ -22,7 +22,7 @@ const gameName = new String('hitesh-hc-com');
 // const anotherString = gameName.slice(-8, 4) // available negative value
 // console.log(anotherString);
 
-// const newStringOne = "   hitesh    "
+const newStringOne = "   hitesh    "
 // console.log(newStringOne);
 // console.log(newStringOne.trim());
 
@@ -32,4 +32,4 @@ const gameName = new String('hitesh-hc-com');
 
 // console.log(url.includes('sundar'))
 
-// console.log(gameName.split('-'));
+// console.log(gameName.split('-'))

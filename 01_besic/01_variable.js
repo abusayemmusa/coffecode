@@ -15,4 +15,4 @@ Prefer not usr var
 Because of issues in the block scope and functional scope
 */
 console.table([accountId, accountEmail, accountPassword, accountCity, accountState]);
-// console.table([accountId, accountEmail, accountPassword, accountCity]);
+console.table([accountId, accountEmail, accountPassword, accountCity]);

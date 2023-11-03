@@ -16,7 +16,7 @@
 
 let score = "Musa"  /*commentout this for checking*/
 
-// console.log(score);
+console.log(score);
 // console.log(typeof score);
 // console.log(typeof (score));
 
@@ -53,7 +53,7 @@ let stringNumber = String(someNumber)
 
 let value = 3
 let negValue = -value
-// console.log(negValue);
+console.log(negValue);
 
 // console.log(2+2);   /*commentout this for checking*/
 // console.log(2-2);   /*commentout this for checking*/
@@ -66,19 +66,19 @@ let str1 = "hello"
 let str2 = " hitesh"
 
 let str3 = str1 + str2
-// console.log(str3);   /*commentout this for checking*/
+console.log(str3);   /*commentout this for checking*/
 
-// console.log("1" + 2);       /*commentout this for checking*/
-// console.log(1 + "2");       /*commentout this for checking*/
-// console.log("1" + 2 + 2);   /*commentout this for checking*/
-// console.log(1 + 2 + "2");   /*commentout this for checking*/
+console.log("1" + 2);       /*commentout this for checking*/
+console.log(1 + "2");       /*commentout this for checking*/
+console.log("1" + 2 + 2);   /*commentout this for checking*/
+console.log(1 + 2 + "2");   /*commentout this for checking*/
 
-// console.log( (3 + 4) * 5 % 3);  /*commentout this for checking*/
+console.log( (3 + 4) * 5 % 3);  /*commentout this for checking*/
 
 
-// console.log(+true);   /*commentout this for checking*/
-// console.log(+true);   /*commentout this for checking*/
-// console.log(+"");     /*commentout this for checking*/
+console.log(+true);   /*commentout this for checking*/
+console.log(+true);   /*commentout this for checking*/
+console.log(+"");     /*commentout this for checking*/
 
 
 
@@ -89,7 +89,7 @@ num1 = num2 = num3 = 2 + 2
 let gameCounter = 100
 ++gameCounter;   /*commentout this for checking*/
 gameCounter++;   /*commentout this for checking*/
-// console.log(gameCounter);
+console.log(gameCounter);
 
 // link to study
 // https://tc39.es/ecma262/multipage/abstract-operations.html#sec-type-conversion
